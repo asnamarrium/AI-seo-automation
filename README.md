@@ -143,7 +143,7 @@ This GitHub-ready folder intentionally excludes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/video-seo-optimizer.git
+git clone https://github.com/asnamarrium/video-seo-optimizer.git
 cd video-seo-optimizer
 ```
 
@@ -205,7 +205,10 @@ Open the local app in your browser:
 http://localhost:8501
 ```
 
----
+Live App Demo
+```text
+https://huggingface.co/spaces/asnamarrium/automated-video-seo
+```
 
 ## API Keys
 
